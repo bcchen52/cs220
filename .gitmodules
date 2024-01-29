@@ -1,3 +1,6 @@
 [submodule "labs/lab1/lab01-bcchen52"]
 	path = labs/lab1/lab01-bcchen52
 	url = git@github.com:CS220-2024S/lab01-bcchen52.git
+[submodule "hw/hw01-bcchen52"]
+	path = hw/hw01-bcchen52
+	url = git@github.com:CS220-2024S/hw01-bcchen52.git
