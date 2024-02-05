@@ -7,3 +7,6 @@
 [submodule "labs/lab2/lab02-bcchen52"]
 	path = labs/lab2/lab02-bcchen52
 	url = git@github.com:CS220-2024S/lab02-bcchen52.git
+[submodule "hw/hw02-bcchen52"]
+	path = hw/hw02-bcchen52
+	url = git@github.com:CS220-2024S/hw02-bcchen52.git
