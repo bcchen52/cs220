@@ -31,3 +31,6 @@
 [submodule "projects/project02/proj02-bcchen52"]
 	path = projects/project02/proj02-bcchen52
 	url = git@github.com:CS220-2024S/proj02-bcchen52.git
+[submodule "labs/lab7/lab07-bcchen52"]
+	path = labs/lab7/lab07-bcchen52
+	url = git@github.com:CS220-2024S/lab07-bcchen52.git
