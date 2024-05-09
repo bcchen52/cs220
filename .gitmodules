@@ -43,3 +43,6 @@
 [submodule "labs/lab9/lab09-bcchen52"]
 	path = labs/lab9/lab09-bcchen52
 	url = git@github.com:CS220-2024S/lab09-bcchen52.git
+[submodule "labs/lab11/lab11-bcchen52"]
+	path = labs/lab11/lab11-bcchen52
+	url = git@github.com:CS220-2024S/lab11-bcchen52.git
